@@ -1,21 +1,36 @@
-# Hi There
+# 👋 Hi, I’m Nikoloz (Tchr1k)
 
-💻 About Me
+💻 **Front-End Developer | Mobile App Creator | Python Enthusiast**
 
-Hi! I’m a passionate programmer who loves turning ideas into reality.
+---
 
-I have experience with multiple programming languages, including:
+## 🚀 About Me
+I’m passionate about turning ideas into reality! I have experience with multiple programming languages and enjoy building **dynamic websites** 🌐 and **mobile applications** 📱. I love crafting **clean, elegant, and functional digital solutions** ✨ and constantly exploring **new technologies** 🚀.
 
-HTML ✨
+---
 
-CSS 🎨
+## 🛠 Skills
+- **HTML** ✨  
+- **CSS** 🎨  
+- **Python** 🐍  
+- **Flutter** 📱 (for mobile apps)  
 
-Python 🐍
+---
 
-I build:
+## 💡 What I Do
+- Build responsive and interactive websites  
+- Develop mobile applications  
+- Automate tasks and work with data using Python  
+- Continuously learning and experimenting with new frameworks  
 
-Dynamic websites 🌐
+---
 
-Mobile applications 📱
+## 📫 Connect with Me
+- [GitHub](https://github.com/Tchr1k)  
+- [LinkedIn](https://www.linkedin.com/in/nikoloz-tchrikishvili-825274359/)  
+- [Instagram](https://www.instagram.com/ni.kaa770/?next=%2F)  
 
-I enjoy creating clean, elegant, and functional digital solutions ✨, and I’m always exploring new technologies 🚀 to make my projects even better.
+---
+
+*“Code is like magic — I make ideas come alive.” ✨*
+
