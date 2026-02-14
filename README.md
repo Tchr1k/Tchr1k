@@ -24,5 +24,3 @@ I’m passionate about turning ideas into reality! I have experience with multip
 
 ---
 
-*“Code is like magic — I make ideas come alive.” ✨*
-
