@@ -17,14 +17,6 @@ I’m passionate about turning ideas into reality! I have experience with multip
 
 ---
 
-## 💡 What I Do
-- Build responsive and interactive websites  
-- Develop mobile applications  
-- Automate tasks and work with data using Python  
-- Continuously learning and experimenting with new frameworks  
-
----
-
 ## 📫 Connect with Me
 - [GitHub](https://github.com/Tchr1k)  
 - [LinkedIn](https://www.linkedin.com/in/nikoloz-tchrikishvili-825274359/)  
