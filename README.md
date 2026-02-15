@@ -4,7 +4,8 @@
 
 ---
 
-##💻 About Me 
+##💻 About Me##
+
 I’m a front-end developer focused on building clean, responsive, and well-structured web applications.
 I work with modern technologies to create user-focused interfaces that are both functional and scalable.
 
