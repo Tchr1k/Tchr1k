@@ -12,9 +12,8 @@ I’m passionate about turning ideas into reality! I have experience with multip
 ## 🛠 Skills
 - **HTML** ✨  
 - **CSS** 🎨  
-- **Python** 🐍  
-- **Flutter** 📱 (for mobile apps)  
-
+- **Python** 🐍
+- **JavaScript** 🚀
 ---
 
 ## 📫 Connect with Me
