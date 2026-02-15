@@ -4,8 +4,9 @@
 
 ---
 
-## 🚀 About Me
-I’m passionate about turning ideas into reality! I have experience with multiple programming languages and enjoy building **dynamic websites** 🌐 and **mobile applications** 📱. I love crafting **clean, elegant, and functional digital solutions** ✨ and constantly exploring **new technologies** 🚀.
+##💻 About Me 
+I’m a front-end developer focused on building clean, responsive, and well-structured web applications.
+I work with modern technologies to create user-focused interfaces that are both functional and scalable.
 
 ---
 
