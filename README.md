@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nikoloz (Tchr1k)
 
-💻 **Front-End Developer | Mobile App Creator | Python Enthusiast**
+💻 **Front-End Developer | Python Enthusiast**
 
 ---
 
